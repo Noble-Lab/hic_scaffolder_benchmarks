@@ -1,0 +1,22 @@
+{
+    "{main_directory}": "/mmfs1/home/asur/scripts/main",
+    "{top_directory}": "/gscratch/scrubbed/asur/results",
+    "{small_queue}": "compute",
+    "{small_queue_mem}": "20G",
+    "{small_queue_time}": "2:00:00",
+    "{small_queue_cores}": 1,
+    "{medium_queue}": "compute",
+    "{medium_queue_mem}": "85G",
+    "{medium_queue_time}": "48:00:00",
+    "{medium_queue_cores}": 20,
+    "{big_queue}": "compute-hugemem",
+    "{big_queue_mem}": "200G", 
+    "{big_queue_time}": "6:00:00",
+    "{big_queue_cores}": 20,
+    "{qc_path}": "/mmfs1/home/asur/software/hic-qc/hic-qc_latest.sif",
+    "{lachesis_path}": "/mmfs1/home/asur/software/lachesis/lachesis_latest.sif",
+    "{hirise_path}": "/mmfs1/home/asur/software/hirise/hirise_latest.sif",
+    "{juicer_path}": "/mmfs1/home/asur/software/juicer/juicer_latest.sif",
+    "{3d_dna_path}": "/mmfs1/home/asur/software/3d-dna/3d-dna_latest.sif",
+    "{allhic_path}": "/mmfs1/home/asur/software/allhic/allhic"
+}
