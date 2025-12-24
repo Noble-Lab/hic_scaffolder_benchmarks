@@ -1,5 +1,8 @@
 # Benchmarking Hi-C Scaffolders
 
+[![DOI](https://zenodo.org/badge/496039250.svg)](https://doi.org/10.5281/zenodo.18043349)
+
+
 This repository contains all the scripts used to benchmark popular Hi-C scaffolders. As part of the study, we created docker containers of [Lachesis](https://hub.docker.com/repository/docker/aakashsur/lachesis), [HiRise](https://hub.docker.com/repository/docker/aakashsur/hirise), [3d-dna](https://hub.docker.com/repository/docker/aakashsur/3d-dna), and [Salsa](https://hub.docker.com/repository/docker/aakashsur/salsa). 
 
 ## Align
